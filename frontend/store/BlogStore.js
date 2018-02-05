@@ -7,8 +7,8 @@ class AcquireState {
 export default class BlogStore extends Store {
   constructor() {
     super();
-    this.state = new BlogState({ page: 1, entries: [] });
-    //this.state = new BlogState();
+    //this.state = new BlogState({ page: 1, entries: [] });
+    this.state = new BlogState();
   }
 
   getState() {
