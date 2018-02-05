@@ -1,0 +1,15 @@
+.themes
+.deploy
+coverage
+source
+.themes
+public
+static
+category_indexes.json
+Gemfile.lock
+config.json
+package-lock.json
+lib
+plugins
+node_modules
+spec
